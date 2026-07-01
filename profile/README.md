@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/jiva-studio/.github/blob/main/profile/jiva-poster.png?raw=true" height="280">
+    <img src="https://github.com/jiva-studio/.github/blob/main/profile/lockup.png?raw=true" height="280">
 </p>
 
 Dobar dan! We are a team of passionate developers who specialize in creating applications that aid in individuals' learning and spiritual development. Our mission is to empower people to become their best selves and achieve their full potential.
