@@ -2,6 +2,11 @@
     <img src="https://github.com/jiva-studio/.github/blob/main/profile/lockup.png?raw=true" height="280">
 </p>
 
+<p align="center">
+    <a href="https://jiva.studio">🌐 <b>Website</b></a> ·
+    <a href="https://github.com/sponsors/jiva-studio">❤️ <b>Sponsor</b></a>
+</p>
+
 Dobar dan! We are a team of passionate developers creating software that aids
 in learning, deep thinking, and spiritual development. Our mission is to
 empower people to become their best selves and achieve their full potential.
@@ -21,3 +26,9 @@ private, and focused tools.
   System (LMS) for structured courses and study.
 - 🤖 **[Band](https://github.com/jiva-studio/band)** — Deterministic
   multi-agent orchestration framework.
+
+---
+
+<p align="center">
+  Visit <a href="https://jiva.studio"><b>jiva.studio</b></a> to explore our ecosystem.
+</p>
